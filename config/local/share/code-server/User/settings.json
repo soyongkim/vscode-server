@@ -1,0 +1,7 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+    "C_Cpp.updateChannel": "Insiders",
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false
+}

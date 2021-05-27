@@ -1,0 +1,12 @@
+[2021-05-27 03:10:38.730] [remoteagent] [info] Installing extension: pkief.material-icon-theme
+[2021-05-27 03:10:40.028] [remoteagent] [info] Downloaded extension: pkief.material-icon-theme /home/coder/.local/share/code-server/CachedExtensionVSIXs/pkief.material-icon-theme-4.0.1
+[2021-05-27 03:10:40.350] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.2d8c27af-5f78-4757-a987-c2f4b2cd4283: pkief.material-icon-theme
+[2021-05-27 03:10:40.357] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/pkief.material-icon-theme-4.0.1
+[2021-05-27 03:10:40.359] [remoteagent] [info] Installation completed. pkief.material-icon-theme
+[2021-05-27 03:10:40.363] [remoteagent] [info] Extensions installed successfully: pkief.material-icon-theme
+[2021-05-27 03:10:40.436] [remoteagent] [info] Installing extension: equinusocio.vsc-material-theme
+[2021-05-27 03:10:41.120] [remoteagent] [info] Downloaded extension: equinusocio.vsc-material-theme /home/coder/.local/share/code-server/CachedExtensionVSIXs/equinusocio.vsc-material-theme-30.0.0
+[2021-05-27 03:10:41.140] [remoteagent] [info] Extracted extension to /home/coder/.local/share/code-server/extensions/.bac1da40-c703-49cf-b777-757ec3145886: equinusocio.vsc-material-theme
+[2021-05-27 03:10:41.145] [remoteagent] [info] Renamed to /home/coder/.local/share/code-server/extensions/equinusocio.vsc-material-theme-30.0.0
+[2021-05-27 03:10:41.146] [remoteagent] [info] Installation completed. equinusocio.vsc-material-theme
+[2021-05-27 03:10:41.157] [remoteagent] [info] Extensions installed successfully: equinusocio.vsc-material-theme

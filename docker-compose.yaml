@@ -1,0 +1,16 @@
+version: "3.3"
+services:
+    codeserver:
+        image: codercom/code-server:latest
+        container_name: code-server-2
+        ports: 
+            - "9400:8080"
+        volumes:
+            - "./config:/home/coder/.config"
+            - "./config/local:/home/coder/.local"
+            - "./config/vscode:/home/coder/.vscode"
+            - "./src:/home/coder/project"
+        user: "1000:1000"
+        environment:
+            - DOCKER_USER=smalldragon
+        restart: always
